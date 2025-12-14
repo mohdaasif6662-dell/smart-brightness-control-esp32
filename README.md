@@ -56,7 +56,8 @@ A smart embedded system project that controls LED brightness using a potentiomet
 ---
 
 ## 📷 Output
-![OLED Output](images/oled_output.jpg)
+![OLED Output](![WhatsApp Image 2025-12-14 at 09 28 26_58ca1090](https://github.com/user-attachments/assets/6bbeff80-2a25-4018-9478-2fc145ae2122)
+)
 
 ---
 
